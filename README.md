@@ -81,7 +81,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
-Esse `README.md` fornece uma visão geral clara do projeto, incluindo como ele está estruturado, tecnologias utilizadas, instruções de execução e informações sobre contribuição e licença.
