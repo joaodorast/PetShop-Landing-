@@ -71,9 +71,9 @@ Siga os passos abaixo para clonar e executar o projeto localmente:
 
 ## Estrutura de Componentes
 
-- `Banner`: Componente de banner principal.
+- `Header`: Componente de banner principal.
 - `Services`: Componente que lista os serviços oferecidos.
-- `Testimonials`: Componente que exibe os depoimentos dos clientes.
+- `Hero`: Componente de botões ou links que direcionam para ações importantes.
 - `Contact`: Componente com informações de contato e formulário de contato.
 
 ## Contribuição
