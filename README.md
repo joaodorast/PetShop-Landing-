@@ -1,4 +1,4 @@
-Claro! Aqui está um exemplo completo de um `README.md` para a landing page de petshop usando React:
+
 
 ```markdown
 # PetShop Landing Page
