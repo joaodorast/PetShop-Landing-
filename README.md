@@ -20,10 +20,10 @@ PetShop-Landing/
 │   └── ...
 ├── src/
 │   ├── components/
-│   │   ├── Banner.js
+│   │   ├── Header.js
 │   │   ├── Services.js
-│   │   ├── Testimonials.js
-│   │   ├── Contact.js
+│   │   ├── Hero.js
+│   │   ├── Footer.js
 │   │   └── ...
 │   ├── App.js
 │   ├── index.js
