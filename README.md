@@ -20,6 +20,7 @@ PetShop-Landing/
 │   └── ...
 ├── src/
 │   ├── components/
+        ├── Contact.js
 │   │   ├── Header.js
 │   │   ├── Services.js
 │   │   ├── Hero.js
