@@ -13,7 +13,7 @@ Esta landing page foi criada para promover os serviços de um petshop. Ela inclu
 
 O projeto está organizado da seguinte forma:
 
-```
+
 PetShop-Landing/
 ├── public/
 │   ├── index.html
