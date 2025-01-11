@@ -80,5 +80,5 @@ Siga os passos abaixo para clonar e executar o projeto localmente:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## Licença
+
 
